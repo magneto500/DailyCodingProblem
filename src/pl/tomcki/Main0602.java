@@ -7,12 +7,11 @@ find the two elements that appear only once.
 For example, given the array [2, 4, 6, 8, 10, 2, 6, 10], return 4 and 8.
 The order does not matter.
 */
-import java.lang.reflect.Array;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
-public class Main {
+public class Main0602 {
 				public static void main(String[] args) {
 
 
